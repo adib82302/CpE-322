@@ -1,4 +1,4 @@
-# Lab2
+# Lab 2
 
 This lab went over terminak commands such as :
 
